@@ -1,0 +1,12 @@
+.myphoto {
+margin: auto;
+}
+.myphoto img{
+    width: 200px;
+}
+
+.myname {
+color: darkblue;
+font-size: 64px:;
+text-align: center;
+}
